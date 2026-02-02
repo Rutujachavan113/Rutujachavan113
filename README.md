@@ -1,15 +1,25 @@
 <h1 align="center">Hi 👋, I'm Rutuja Rajendra Chavan</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
 
 - 🔭 I’m currently working on **🎯 Aspiring Java Developer with strong fundamentals in programming and web technologies.**
 
-- 🌱 I’m currently learning **• Java (Core Java, OOP concepts) • Data Structures & Algorithms • SQL & MySQL • Web Technologies: HTML5, CSS3, JavaScript, React.js (Basics)**
+- 🌱 I’m currently learning **
+- • Java (Core Java, OOP concepts)
+- • Data Structures & Algorithms
+-  • SQL & MySQL
+-  • Web Technologies: HTML5, CSS3, JavaScript, React.js (Basics)**
 
-- 👯 I’m looking to collaborate on **• Java-based development projects • Web development projects (Frontend or Java backend) • Beginner-friendly open-source projects**
+- 👯 I’m looking to collaborate on **• Java-based development projects
+- • Web development projects (Frontend or Java backend)
+- • Beginner-friendly open-source projects**
 
-- 🤝 I’m looking for help with **• Improving problem-solving skills using Java • Strengthening Data Structures & Algorithms concepts • Writing clean and efficient Java code • Preparing for technical interviews**
+- 🤝 I’m looking for help with **• Improving problem-solving skills using Java
+-  • Strengthening Data Structures & Algorithms concepts
+-  • Writing clean and efficient Java code • Preparing for technical interviews**
 
-- 💬 Ask me about **• Core Java & Object-Oriented Programming • SQL and database concepts • Java project development • Fresher-level interview preparation**
+- 💬 Ask me about **• Core Java & Object-Oriented Programming
+- • SQL and database concepts
+- • Java project development
+- • Fresher-level interview preparation**
 
 - 📫 How to reach me **crutuja720@gmail.com**
 
