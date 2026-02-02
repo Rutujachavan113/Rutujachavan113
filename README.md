@@ -1,31 +1,35 @@
 <h1 align="center">Hi 👋, I'm Rutuja Rajendra Chavan</h1>
 
-- 🔭 I’m currently working on **🎯 Aspiring Java Developer with strong fundamentals in programming and web technologies.**
+- 🎯 Aspiring Java Developer with strong fundamentals in programming and web technologies.
 
-- 🌱 I’m currently learning **
+-📘  I’m currently learning 
 - • Java (Core Java, OOP concepts)
 - • Data Structures & Algorithms
 -  • SQL & MySQL
--  • Web Technologies: HTML5, CSS3, JavaScript, React.js (Basics)**
+-  • Web Technologies: HTML5, CSS3, JavaScript, React.js (Basics)
 
-- 👯 I’m looking to collaborate on **• Java-based development projects
+- 👯 Open to collaboration on
+- • Java-based development projects
 - • Web development projects (Frontend or Java backend)
 - • Beginner-friendly open-source projects**
 
-- 🤝 I’m looking for help with **• Improving problem-solving skills using Java
+- 🤝 I’m looking for help with
+-  • Improving problem-solving skills using Java
 -  • Strengthening Data Structures & Algorithms concepts
--  • Writing clean and efficient Java code • Preparing for technical interviews**
+-  • Writing clean and efficient Java code • Preparing for technical interviews
 
-- 💬 Ask me about **• Core Java & Object-Oriented Programming
+- 💬 Ask me about
+- • Core Java & Object-Oriented Programming
 - • SQL and database concepts
 - • Java project development
 - • Fresher-level interview preparation**
 
-- 📫 How to reach me **crutuja720@gmail.com**
+- 📫 How to reach me -crutuja720@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1x79HMBZ2ZdAHWOuC8Sv2QVD3aAGPJFd3/view?usp=drive_link](https://drive.google.com/file/d/1x79HMBZ2ZdAHWOuC8Sv2QVD3aAGPJFd3/view?usp=drive_link)
 
-- ⚡ Fun fact **• I enjoy building logical solutions and continuously improving my coding skills 🚀**
+- ⚡ Fun fact
+- • I enjoy building logical solutions and continuously improving my coding skills 🚀
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
