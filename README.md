@@ -165,7 +165,7 @@ I’m continuously learning, building projects, solving coding problems, and pre
 
 💼 **LinkedIn:** [Rutuja Chavan](https://www.linkedin.com/in/rutuja-chavan-29a7b9230/)
 
-📄 **Resume:** [View My Resume](https://drive.google.com/file/d/1x79HMBZ2ZdAHWOuC8Sv2QVD3aAGPJFd3/view?usp=drive_link)
+📄 **Resume:** [View My Resume](https://drive.google.com/file/d/1n54bAQscrfJM3BVad_IO-Caxga0tTQD3/view?usp=sharing)
 
 ---
 
